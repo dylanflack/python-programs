@@ -10,16 +10,13 @@ system sorts them by how much ram they are utilizing, displays
 the same information to the terminal shows duplicate processes in 
 red
 
-> [!NOTE]
 > Algorithms_python
 >demonstrates how fast some popular sorting algorithms are in 
 python
 
-> [!NOTE]
 > Quiz_Template 
 It's a Quiz template using a JSON file to store the questions
 
-> [!NOTE]
 > User_Forms
 > An old outdated version of USER_FORMS_V2 one of my more larger
 and ambitious projects early on, it's bloated and filled with
@@ -28,7 +25,6 @@ not important for the user. My goal for this program was to step
 outside my comfort zone using classes and different types
 of modules and libraries 
 
-> [!NOTE]
 > User_Forms_v2
 > User_Forms but not filled with uncescssary bloat 
 > [Work in progess]
