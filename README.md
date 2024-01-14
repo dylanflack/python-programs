@@ -1,4 +1,4 @@
-# python-programs
+# Python-Programs
 -- python 3.12
 This is a collection of small python programs that I've worked on
 and currently working on
