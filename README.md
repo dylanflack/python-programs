@@ -18,12 +18,12 @@ and currently working on
 
 - User_Forms
   - An old outdated version of USER_FORMS_V2 one of my more larger
-      and ambitious projects early on, it's bloated and filled with
+      and ambitious projects that I worked on early on, it's bloated and filled with
       unnecssary and unconventional optimizations and data that's 
       not important for the user. My goal for this program was to step
       outside my comfort zone using classes and different types
       of modules and libraries 
 
 - User_Forms_v2
-  - User_Forms but not filled with uncescssary bloat 
+  - User_Forms but not filled with uncescssary bloat and fluff it's user form made simple 
     [Work in progess]
