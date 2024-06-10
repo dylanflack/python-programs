@@ -1,16 +1,20 @@
-#Simple Python programs
+# Python Programs 
 
-- Active_Processes
-A script to list all active processes sorted by RAM usage and save the output to a .txt file.
+This repository contains a collection of small Python programs that I have worked on and am currently working on.
 
-- Algorithms_python
+## Programs
+
+### Active_Processes
+A script to list all active processes sorted by RAM usage and save the output to a `.txt` file.
+
+### Algorithms_python
 Simple demonstrations of various algorithms implemented in Python.
 
-- Quiz_Template
+### Quiz_Template
 A modular quiz template utilizing a JSON dictionary to store questions and answers.
 
-- User_Forms
-A script to get user input and save it to a .txt file.
+### User_Forms
+A script to get user input and save it to a `.txt` file.
 
-- User_Forms_v2
+### User_Forms_v2
 An updated version of the user input script (WORK IN PROGRESS).
