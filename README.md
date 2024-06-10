@@ -1,29 +1,16 @@
-# Python-Programs
--- python 3.12
-This is a collection of small python programs that I've worked on
-and currently working on
+#Simple Python programs
 
 - Active_Processes
-  - Creates text Document that shows active processes running on your
-    system sorts them by how much ram they are utilizing, displays
-    the same information to the terminal shows duplicate processes in 
-    red
+A script to list all active processes sorted by RAM usage and save the output to a .txt file.
 
 - Algorithms_python
-  - demonstrates how fast some popular sorting algorithms are in 
-      python
+Simple demonstrations of various algorithms implemented in Python.
 
-- Quiz_Template 
-  - It's a Quiz template using a JSON file to store the questions
+- Quiz_Template
+A modular quiz template utilizing a JSON dictionary to store questions and answers.
 
 - User_Forms
-  - An old outdated version of USER_FORMS_V2 one of my more larger
-      and ambitious projects that I worked on early on, it's bloated and filled with
-      unnecssary and unconventional optimizations and data that's 
-      not important for the user. My goal for this program was to step
-      outside my comfort zone using classes and different types
-      of modules and libraries 
+A script to get user input and save it to a .txt file.
 
 - User_Forms_v2
-  - User_Forms but not filled with uncescssary bloat and fluff it's user form made simple 
-    [Work in progess]
+An updated version of the user input script (WORK IN PROGRESS).
